@@ -21,4 +21,11 @@ public class MainActivity extends AppCompatActivity {
     public void signupScreen(View view) {
         startActivity(new Intent(MainActivity.this, SignupActivity.class));
     }
+
+    public void tabbedScreen(View view) {
+        startActivity(new Intent(MainActivity.this, TabbedActivity.class));
+    }
+
+    public void bottomNavigationScreen(View view) {
+    }
 }

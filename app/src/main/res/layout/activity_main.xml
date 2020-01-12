@@ -28,4 +28,16 @@
         android:onClick="signupScreen"
         android:text="SignUp Screen"/>
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="tabbedScreen"
+        android:text="Tabbed Screen"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="bottomNavigationScreen"
+        android:text="" />
+
 </LinearLayout>

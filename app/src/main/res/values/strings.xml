@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ProjectTemplates</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="title_activity_bottom_naviation">BottomNaviationActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
 </resources>
